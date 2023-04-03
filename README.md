@@ -20,3 +20,4 @@ This project:
    The code from the FD-FLIM-MSSR simulator was modified in order to plot the figures in terms of sigma and not in nanometers. So that, calculations can be done for      comparing the Rayleigh and Sparrow limits.
 3. The archive named 02-15-2023.ipynb is the first attempt to Phasor Plot analysis:
    The equations for converting the fluorescence lifetimes to the phasor space were programmed. For the modelling it was implemented a built-in function of cross-        correlation.
+4. The archive named 03-30-2023.ipynb contains a possible solution for the issue in the abive archive of calculating the fluorophores lifetimes within the phasor          circle and not in the boundaries. This solution was provided by ChatGPT-4.
